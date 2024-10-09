@@ -1,1 +1,2 @@
 https://share.streamlit.io/
+https://submissionprojectdicoding-nafarida.streamlit.app/
