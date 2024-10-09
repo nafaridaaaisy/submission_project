@@ -1,7 +1,9 @@
 **SETUP ENVIRONMENT**
 
 conda create --name dicoding-ds python=3.9
+
 conda activate dicoding-ds
+
 pip install -r requirements.txt
 
 
