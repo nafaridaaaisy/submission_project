@@ -1,28 +1,22 @@
-**SETUP ENVIRONMENT**
+# Dicoding Project Dashboard ✨
 
-conda create --name dicoding-ds python=3.9
-
-conda activate dicoding-ds
-
+## Setup Environment - Anaconda
+```
+conda create --name main-ds python=3.9
+conda activate main-ds
 pip install -r requirements.txt
+```
 
-
-
-
-_**1.) Setup Environment - Shell/Terminal**_
-
-mkdir nafa rida_project_dicoding
-
-cd nafa rida_project_dicoding
-
+## Setup Environment - Shell/Terminal
+```
+mkdir proyek_analisis_data
+cd proyek_analisis_data
 pipenv install
-
 pipenv shell
-
 pip install -r requirements.txt
+```
 
-
-
-_**2.) Run Streamlit App**_
-
-streamlit run dicoding.py
+## Run steamlit app
+```
+streamlit run dashboard.py
+```
