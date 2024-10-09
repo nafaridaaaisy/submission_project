@@ -8,15 +8,21 @@ pip install -r requirements.txt
 
 
 
-**1.) Setup Environment - Shell/Terminal**
+
+_**1.) Setup Environment - Shell/Terminal**_
 
 mkdir nafa rida_project_dicoding
+
 cd nafa rida_project_dicoding
+
 pipenv install
+
 pipenv shell
+
 pip install -r requirements.txt
 
 
-**2.) Run Streamlit App**
+
+_**2.) Run Streamlit App**_
 
 streamlit run dicoding.py
