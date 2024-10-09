@@ -2,15 +2,15 @@
 
 ## Setup Environment - Anaconda
 ```
-conda create --name main-ds python=3.9
-conda activate main-ds
+conda create --name dicoding-ds python=3.9
+conda activate dicoding-ds
 pip install -r requirements.txt
 ```
 
 ## Setup Environment - Shell/Terminal
 ```
-mkdir proyek_analisis_data
-cd proyek_analisis_data
+mkdir nafa rida_project_dicoding
+cd nafa rida_project_dicoding
 pipenv install
 pipenv shell
 pip install -r requirements.txt
@@ -18,5 +18,5 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+streamlit run dicoding.py
 ```
