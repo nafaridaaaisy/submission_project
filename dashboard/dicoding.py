@@ -51,7 +51,7 @@ def create_sellerbystate_df(all_data_df):
 
 
 # load berkas all_data_df
-all_data_df = pd.read_csv("C:/Users/ASUS/proyek_analisis_data/miniconda/envs/dicoding-ds/dicoding/all_data_df.csv")
+all_data_df = pd.read_csv("https://github.com/nafaridaaaisy/submission_project/blob/master/dashboard/all_data_df.csv")
 
 
 
